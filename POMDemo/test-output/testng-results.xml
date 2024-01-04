@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T20:31:51 IST" name="SauceLab TestSuite" finished-at="2023-03-27T20:32:27 IST" duration-ms="36595">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T20:31:51 IST" name="SauceLabsTestCase" finished-at="2023-03-27T20:32:27 IST" duration-ms="36595">
+      <class name="pkgTests.TestAddProduct">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:pkgTests.TestAddProduct@3c73951]" started-at="2023-03-27T20:32:08 IST" name="beforeClass" finished-at="2023-03-27T20:32:15 IST" duration-ms="7121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_Homepage()[pri:0, instance:pkgTests.TestAddProduct@3c73951]" started-at="2023-03-27T20:32:15 IST" name="TC_Homepage" finished-at="2023-03-27T20:32:15 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Homepage -->
+        <test-method signature="TC_Loginpage()[pri:1, instance:pkgTests.TestAddProduct@3c73951]" started-at="2023-03-27T20:32:15 IST" name="TC_Loginpage" finished-at="2023-03-27T20:32:16 IST" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Loginpage -->
+        <test-method signature="TC_AddProductspage()[pri:2, instance:pkgTests.TestAddProduct@3c73951]" started-at="2023-03-27T20:32:16 IST" name="TC_AddProductspage" finished-at="2023-03-27T20:32:21 IST" duration-ms="5168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_AddProductspage -->
+        <test-method signature="TC_checkout()[pri:3, instance:pkgTests.TestAddProduct@3c73951]" started-at="2023-03-27T20:32:21 IST" name="TC_checkout" finished-at="2023-03-27T20:32:21 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_checkout -->
+        <test-method signature="TC_customerInfo()[pri:4, instance:pkgTests.TestAddProduct@3c73951]" started-at="2023-03-27T20:32:21 IST" name="TC_customerInfo" finished-at="2023-03-27T20:32:27 IST" duration-ms="5427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_customerInfo -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:pkgTests.TestAddProduct@3c73951]" started-at="2023-03-27T20:32:27 IST" name="afterClass" finished-at="2023-03-27T20:32:27 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pkgTests.TestAddProduct -->
+      <class name="pkgTests.TestLogin">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:pkgTests.TestLogin@1b6e1eff]" started-at="2023-03-27T20:32:00 IST" name="beforeClass" finished-at="2023-03-27T20:32:07 IST" duration-ms="7420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_Homepage()[pri:0, instance:pkgTests.TestLogin@1b6e1eff]" started-at="2023-03-27T20:32:07 IST" name="TC_Homepage" finished-at="2023-03-27T20:32:07 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Homepage -->
+        <test-method signature="TC_Loginpage()[pri:1, instance:pkgTests.TestLogin@1b6e1eff]" started-at="2023-03-27T20:32:07 IST" name="TC_Loginpage" finished-at="2023-03-27T20:32:08 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Loginpage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:pkgTests.TestLogin@1b6e1eff]" started-at="2023-03-27T20:32:08 IST" name="afterClass" finished-at="2023-03-27T20:32:08 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pkgTests.TestLogin -->
+      <class name="pkgTests.TestHomePage">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:pkgTests.TestHomePage@27ff5d15]" started-at="2023-03-27T20:31:51 IST" name="beforeClass" finished-at="2023-03-27T20:31:59 IST" duration-ms="8424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_HOmepage()[pri:0, instance:pkgTests.TestHomePage@27ff5d15]" started-at="2023-03-27T20:31:59 IST" name="TC_HOmepage" finished-at="2023-03-27T20:31:59 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_HOmepage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:pkgTests.TestHomePage@27ff5d15]" started-at="2023-03-27T20:31:59 IST" name="afterClass" finished-at="2023-03-27T20:32:00 IST" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pkgTests.TestHomePage -->
+    </test> <!-- SauceLabsTestCase -->
+  </suite> <!-- SauceLab TestSuite -->
+</testng-results>

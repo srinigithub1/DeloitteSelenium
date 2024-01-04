@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SauceLab TestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SauceLabsTestCase(failed)">
+    <classes>
+      <class name="pkgTests.TestLogin">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="TC_Homepage"/>
+          <include name="TC_Loginpage"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- pkgTests.TestLogin -->
+      <class name="pkgTests.TestAddProduct">
+        <methods>
+          <include name="TC_checkout"/>
+          <include name="TC_customerInfo"/>
+          <include name="TC_Loginpage"/>
+          <include name="TC_AddProductspage"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="TC_Homepage"/>
+        </methods>
+      </class> <!-- pkgTests.TestAddProduct -->
+    </classes>
+  </test> <!-- SauceLabsTestCase(failed) -->
+</suite> <!-- Failed suite [SauceLab TestSuite] -->
