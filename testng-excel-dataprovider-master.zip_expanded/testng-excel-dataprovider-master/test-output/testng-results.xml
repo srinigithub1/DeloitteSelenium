@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="16" total="20" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T01:13:23 IST" name="verify latest version" finished-at="2022-12-29T01:13:24 IST" duration-ms="1383">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T01:13:23 IST" name="verify latest version" finished-at="2022-12-29T01:13:24 IST" duration-ms="1383">
+      <class name="com.github.hemanthsridhar.tests.ExtTest">
+        <test-method signature="loginTest2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.github.hemanthsridhar.tests.ExtTest@61d6015a]" started-at="2022-12-29T01:13:24 IST" name="loginTest2" data-provider="singleExcelMultipleSheets" finished-at="2022-12-29T01:13:24 IST" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_Login_005]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hemanth@bla4.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Name4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method signature="loginTest2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.github.hemanthsridhar.tests.ExtTest@61d6015a]" started-at="2022-12-29T01:13:24 IST" name="loginTest2" data-provider="singleExcelMultipleSheets" finished-at="2022-12-29T01:13:24 IST" duration-ms="23" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_Login_002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hemanth@bla1.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Name1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method signature="loginTest2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.github.hemanthsridhar.tests.ExtTest@61d6015a]" started-at="2022-12-29T01:13:24 IST" name="loginTest2" data-provider="singleExcelMultipleSheets" finished-at="2022-12-29T01:13:24 IST" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_Login_003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hemanth@bla2.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Name2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method signature="loginTest2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.github.hemanthsridhar.tests.ExtTest@61d6015a]" started-at="2022-12-29T01:13:24 IST" name="loginTest2" data-provider="singleExcelMultipleSheets" finished-at="2022-12-29T01:13:24 IST" duration-ms="22" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_Login_004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hemanth@bla3.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Name3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+      </class> <!-- com.github.hemanthsridhar.tests.ExtTest -->
+    </test> <!-- verify latest version -->
+  </suite> <!-- verify latest version -->
+</testng-results>
